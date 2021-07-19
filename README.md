@@ -1,4 +1,4 @@
-yeni-tool
+HIDEN-SCRIPT
 
 GİTHUB    : https://github.com/termuxxtoolss 
 
